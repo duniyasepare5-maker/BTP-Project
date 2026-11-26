@@ -376,10 +376,10 @@ elif page == "4. Load-Sharing Prediction":
         with gcol2:
             st.markdown(f"""
             #### Engineering Interpretation:
-            - **Load Transferred to Piles**: **{res['pile_group_load_kn']:.2f} kN** ($\\{res['pile_load_share_pct']:.1f}\\%$)
-            - **Load Borne Directly by Raft**: **{res['raft_load_kn']:.2f} kN** ($\\{res['raft_load_share_pct']:.1f}\\%$)
+            - **Load Transferred to Piles**: **{res['pile_group_load_kn']:.2f} kN** (${res['pile_load_share_pct']:.1f}\\%$)
+            - **Load Borne Directly by Raft**: **{res['raft_load_kn']:.2f} kN** (${res['raft_load_share_pct']:.1f}\\%$)
             - **Average Load per Pile**: **{res['pile_group_load_kn'] / n_piles * 1000.0:.1f} N**
-            - **Negative Skin Friction Consideration**: In DPRF with cushion thickness $h/d = {hd_ratio:.1f}$, maximum pile axial force occurs around depth $z \\approx 10d$ ($250\\text{ mm}$), rather than the pile head.
+            - **Negative Skin Friction Consideration**: In DPRF with cushion thickness $h/d = {hd_ratio:.1f}$, maximum pile axial force occurs around depth $z \\approx 10d$ ($250\\text{{ mm}}$), rather than the pile head.
             """)
 
 # -------------------------------------------------------------
