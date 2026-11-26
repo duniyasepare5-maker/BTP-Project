@@ -287,7 +287,7 @@ elif page == "4. Load-Sharing Prediction":
         
         with col1:
             st.markdown("##### 🏛️ Foundation Geometry")
-            n_piles = st.selectbox("Number of Piles ($n_p$)", options=[1, 4, 9], index=2)
+            n_piles = st.number_input("Number of Piles ($n_p$)", min_value=1, max_value=100, value=9, step=1)
             pile_d = st.number_input("Pile Diameter, $d$ (mm)", min_value=15.0, max_value=50.0, value=25.4, step=1.0)
             pile_L = st.number_input("Pile Length, $L$ (m)", min_value=0.3, max_value=2.0, value=1.0, step=0.1)
             pile_s = st.number_input("Spacing Ratio, $s/d$", min_value=2.0, max_value=6.0, value=3.0, step=0.5)
