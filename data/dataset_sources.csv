@@ -1,0 +1,6 @@
+Source_ID,Authors,Year,Title,Journal_or_Book,DOI_or_Ref,Test_Type,Scale,Soil_Type,Foundation_Type
+SRC-01,Halder & Manna,2022,Load transfer mechanism for connected and disconnected piled raft: a comparative study,Acta Geotechnica,10.1007/s11440-021-01409-0,1g Physical Model,1:15.5,Yamuna Sand (SP),DPRF (2x2) and CPR (2x2)
+SRC-02,Halder & Manna,2021,Large scale model testing to investigate the influence of granular cushion layer on the performance of disconnected piled raft system,Acta Geotechnica,10.1007/s11440-020-01121-5,1g Physical Model,1:25,Yamuna Sand (SP),DPRF (3x3 and 1x1)
+SRC-03,Cao et al.,2004,Behavior of model rafts resting on pile-reinforced sand,J. Geotech. Geoenviron. Eng.,10.1061/(ASCE)1090-0241(2004)130:2(129),1g Model,1:20,Toyoura Sand,DPRF (3x3)
+SRC-04,Fioravante & Giretti,2010,Contact versus noncontact piled raft foundations,Can. Geotech. J.,10.1139/T10-028,Centrifuge (50g),1:50,Toyoura Sand,DPRF (3x3)
+SRC-05,Tradigo et al.,2015,Non-linear soil-structure interaction in disconnected piled raft foundations,Computers and Geotechnics,10.1016/j.compgeo.2014.09.006,3D Numerical FE,Full/Model,Sand,DPRF (3x3)

@@ -1,0 +1,59 @@
+experiment_id,source_id,paper_citation,source_figure,foundation_type,is_disconnected,n_piles,pile_diameter_mm,pile_length_m,pile_spacing_ratio,raft_width_mm,raft_thickness_mm,cushion_thickness_ratio,cushion_d50_mm,cushion_friction_deg,cushion_gamma_kn_m3,soil_d50_mm,soil_friction_deg,soil_relative_density_pct,soil_gamma_kn_m3,settlement_mm,normalized_settlement_pct,applied_load_kn,pile_load_share_pct,settlement_efficiency_eta
+HM21_DPR_3x3_hd1_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,1.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,1.5,0.5,2.2,3.0,0.22
+HM21_DPR_3x3_hd1_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,1.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,3.0,1.0,4.3,5.5,0.38
+HM21_DPR_3x3_hd1_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,1.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,6.0,2.0,7.5,10.5,0.39
+HM21_DPR_3x3_hd1_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,1.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,10.5,3.5,11.5,18.0,0.44
+HM21_DPR_3x3_hd1_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,1.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,15.0,5.0,14.8,25.5,0.46
+HM21_DPR_3x3_hd1_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,1.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,19.5,6.5,17.2,30.5,0.45
+HM21_DPR_3x3_hd1_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,1.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,24.0,8.0,19.1,33.8,0.44
+HM21_DPR_3x3_hd1_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,1.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,30.0,10.0,20.5,35.0,0.44
+HM21_DPR_3x3_hd2_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,1.5,0.5,2.0,2.5,0.16
+HM21_DPR_3x3_hd2_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,3.0,1.0,3.9,4.0,0.32
+HM21_DPR_3x3_hd2_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,6.0,2.0,7.0,8.0,0.33
+HM21_DPR_3x3_hd2_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,10.5,3.5,10.8,15.0,0.36
+HM21_DPR_3x3_hd2_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,15.0,5.0,14.1,23.5,0.38
+HM21_DPR_3x3_hd2_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,19.5,6.5,16.5,30.0,0.37
+HM21_DPR_3x3_hd2_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,24.0,8.0,18.2,33.5,0.38
+HM21_DPR_3x3_hd2_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,30.0,10.0,19.4,34.8,0.36
+HM21_DPR_3x3_hd3_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,3.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,1.5,0.5,1.8,2.0,0.1
+HM21_DPR_3x3_hd3_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,3.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,3.0,1.0,3.5,3.5,0.22
+HM21_DPR_3x3_hd3_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,3.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,6.0,2.0,6.4,7.0,0.23
+HM21_DPR_3x3_hd3_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,3.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,10.5,3.5,9.9,13.5,0.24
+HM21_DPR_3x3_hd3_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,3.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,15.0,5.0,13.0,21.0,0.25
+HM21_DPR_3x3_hd3_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,3.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,19.5,6.5,15.2,27.5,0.25
+HM21_DPR_3x3_hd3_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,3.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,24.0,8.0,16.9,31.0,0.27
+HM21_DPR_3x3_hd3_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,3.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,30.0,10.0,18.0,33.0,0.24
+HM21_DPR_3x3_hd4_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,4.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,1.5,0.5,1.6,1.5,0.05
+HM21_DPR_3x3_hd4_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,4.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,3.0,1.0,3.1,2.8,0.12
+HM21_DPR_3x3_hd4_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,4.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,6.0,2.0,5.8,5.5,0.13
+HM21_DPR_3x3_hd4_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,4.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,10.5,3.5,9.0,11.0,0.14
+HM21_DPR_3x3_hd4_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,4.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,15.0,5.0,11.9,17.5,0.16
+HM21_DPR_3x3_hd4_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,4.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,19.5,6.5,14.0,23.5,0.15
+HM21_DPR_3x3_hd4_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,4.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,24.0,8.0,15.6,27.0,0.16
+HM21_DPR_3x3_hd4_CM2,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 12, 13a, 15b",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,4.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,30.0,10.0,16.7,29.0,0.14
+HM21_DPR_3x3_hd2_CM1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,0.6,47.0,17.0,0.3,40.7,70.0,15.9,1.5,0.5,1.8,2.0,0.05
+HM21_DPR_3x3_hd2_CM1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,0.6,47.0,17.0,0.3,40.7,70.0,15.9,3.0,1.0,3.5,3.5,0.11
+HM21_DPR_3x3_hd2_CM1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,0.6,47.0,17.0,0.3,40.7,70.0,15.9,6.0,2.0,6.4,6.8,0.12
+HM21_DPR_3x3_hd2_CM1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,0.6,47.0,17.0,0.3,40.7,70.0,15.9,10.5,3.5,10.0,12.8,0.13
+HM21_DPR_3x3_hd2_CM1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,0.6,47.0,17.0,0.3,40.7,70.0,15.9,15.0,5.0,13.2,19.5,0.15
+HM21_DPR_3x3_hd2_CM1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,0.6,47.0,17.0,0.3,40.7,70.0,15.9,19.5,6.5,15.6,25.2,0.14
+HM21_DPR_3x3_hd2_CM1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,0.6,47.0,17.0,0.3,40.7,70.0,15.9,24.0,8.0,17.3,28.5,0.15
+HM21_DPR_3x3_hd2_CM1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,0.6,47.0,17.0,0.3,40.7,70.0,15.9,30.0,10.0,18.6,30.0,0.14
+HM21_DPR_3x3_hd2_CM3,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,4.5,56.0,18.2,0.3,40.7,70.0,15.9,1.5,0.5,2.1,2.8,0.24
+HM21_DPR_3x3_hd2_CM3,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,4.5,56.0,18.2,0.3,40.7,70.0,15.9,3.0,1.0,4.1,4.6,0.39
+HM21_DPR_3x3_hd2_CM3,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,4.5,56.0,18.2,0.3,40.7,70.0,15.9,6.0,2.0,7.3,8.8,0.4
+HM21_DPR_3x3_hd2_CM3,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,4.5,56.0,18.2,0.3,40.7,70.0,15.9,10.5,3.5,11.2,16.2,0.43
+HM21_DPR_3x3_hd2_CM3,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,4.5,56.0,18.2,0.3,40.7,70.0,15.9,15.0,5.0,14.5,24.8,0.45
+HM21_DPR_3x3_hd2_CM3,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,4.5,56.0,18.2,0.3,40.7,70.0,15.9,19.5,6.5,17.0,31.2,0.44
+HM21_DPR_3x3_hd2_CM3,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,4.5,56.0,18.2,0.3,40.7,70.0,15.9,24.0,8.0,18.7,34.6,0.43
+HM21_DPR_3x3_hd2_CM3,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 18, 19a, 20",DPRF,1,9,25.4,1.0,3.0,300.0,25.0,2.0,4.5,56.0,18.2,0.3,40.7,70.0,15.9,30.0,10.0,19.9,36.0,0.45
+HM21_DPR_1x1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 8, 9a, 10b",DPRF,1,1,25.4,1.0,0.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,3.0,1.0,2.6,1.2,0.04
+HM21_DPR_1x1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 8, 9a, 10b",DPRF,1,1,25.4,1.0,0.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,7.5,2.5,5.8,2.1,0.05
+HM21_DPR_1x1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 8, 9a, 10b",DPRF,1,1,25.4,1.0,0.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,15.0,5.0,10.1,3.2,0.06
+HM21_DPR_1x1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 8, 9a, 10b",DPRF,1,1,25.4,1.0,0.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,22.5,7.5,13.4,3.9,0.07
+HM21_DPR_1x1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 8, 9a, 10b",DPRF,1,1,25.4,1.0,0.0,300.0,25.0,2.0,2.0,51.0,17.5,0.3,40.7,70.0,15.9,30.0,10.0,15.6,4.4,0.08
+HM21_PR_1x1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 8, 9a, 10a",CPR,0,1,25.4,1.0,0.0,300.0,25.0,0.0,0.0,0.0,0.0,0.3,40.7,70.0,15.9,3.0,1.0,3.1,28.0,0.12
+HM21_PR_1x1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 8, 9a, 10a",CPR,0,1,25.4,1.0,0.0,300.0,25.0,0.0,0.0,0.0,0.0,0.3,40.7,70.0,15.9,7.5,2.5,6.7,18.0,0.13
+HM21_PR_1x1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 8, 9a, 10a",CPR,0,1,25.4,1.0,0.0,300.0,25.0,0.0,0.0,0.0,0.0,0.3,40.7,70.0,15.9,15.0,5.0,11.2,11.0,0.14
+HM21_PR_1x1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 8, 9a, 10a",CPR,0,1,25.4,1.0,0.0,300.0,25.0,0.0,0.0,0.0,0.0,0.3,40.7,70.0,15.9,22.5,7.5,14.3,8.2,0.15
+HM21_PR_1x1,SRC-02,Halder & Manna (2021) Acta Geotechnica,"Fig 8, 9a, 10a",CPR,0,1,25.4,1.0,0.0,300.0,25.0,0.0,0.0,0.0,0.0,0.3,40.7,70.0,15.9,30.0,10.0,16.4,6.8,0.16

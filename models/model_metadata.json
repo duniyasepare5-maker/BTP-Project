@@ -1,0 +1,54 @@
+{
+    "best_model_name": "Tuned Random Forest Regressor",
+    "feature_names": [
+        "is_disconnected",
+        "n_piles",
+        "pile_diameter_mm",
+        "pile_length_m",
+        "pile_spacing_ratio",
+        "raft_width_mm",
+        "raft_thickness_mm",
+        "pile_area_ratio",
+        "cushion_thickness_ratio",
+        "cushion_d50_mm",
+        "cushion_friction_deg",
+        "cushion_gamma_kn_m3",
+        "soil_d50_mm",
+        "soil_friction_deg",
+        "soil_relative_density_pct",
+        "soil_gamma_kn_m3",
+        "applied_load_kn",
+        "settlement_mm",
+        "normalized_settlement_pct",
+        "applied_pressure_kpa"
+    ],
+    "primary_target": "pile_load_share_pct",
+    "test_metrics": {
+        "R2": 0.9007,
+        "MAE": 2.3032,
+        "MSE": 9.5696,
+        "RMSE": 3.0935
+    },
+    "n_train_samples": 81,
+    "n_test_samples": 18,
+    "train_experiments": [
+        "HM22_DPR_2x2_hd1",
+        "HM22_DPR_2x2_hd2",
+        "HM22_CPR_2x2",
+        "HM22_UR",
+        "HM21_DPR_3x3_hd1_CM2",
+        "HM21_DPR_3x3_hd2_CM2",
+        "HM21_DPR_3x3_hd3_CM2",
+        "HM21_DPR_3x3_hd4_CM2",
+        "HM21_DPR_3x3_hd2_CM3",
+        "HM21_DPR_1x1",
+        "HM21_PR_1x1",
+        "FG10_Centrifuge_3x3_hd1.8"
+    ],
+    "test_experiments": [
+        "HM22_DPR_2x2_hd3",
+        "HM21_DPR_3x3_hd2_CM1",
+        "Cao04_1g_3x3_LB0.79",
+        "Cao04_1g_3x3_LB1.13"
+    ]
+}

@@ -1,0 +1,29 @@
+Feature_Name,Category,Data_Type,Unit,Min_Val,Max_Val,Geotechnical_Definition,Role
+experiment_id,Identifier,String,-,-,-,Unique test code for experimental series,Metadata
+source_id,Identifier,String,-,-,-,Key referencing dataset_sources.csv,Metadata
+foundation_type,Categorical,String,-,-,-,Type of foundation: DPRF / CPR / UR,Input
+is_disconnected,Binary,Integer,-,0,1,1 if disconnected via cushion; 0 if connected (CPR),Input
+n_piles,Geometry,Integer,-,0,9,Number of piles underneath the raft,Input
+pile_diameter_mm,Geometry,Float,mm,25.4,25.4,Model pile outer diameter (d),Input
+pile_length_m,Geometry,Float,m,0.35,1.0,Model pile embedded length (L),Input
+pile_spacing_ratio,Geometry,Float,-,0.0,3.0,Normalized pile center-to-center spacing (s/d),Input
+raft_width_mm,Geometry,Float,mm,200.0,300.0,Square model raft width (B),Input
+raft_thickness_mm,Geometry,Float,mm,15.0,25.0,Model raft plate thickness (t_r),Input
+pile_area_ratio,Geometry,Float,-,0.0,0.0509,Ratio of total pile area to raft area (n_p * pi * d^2 / 4) / B^2,Input
+cushion_thickness_ratio,Cushion,Float,-,0.0,4.0,Normalized cushion thickness (h/d). 0 for CPR/UR,Input
+cushion_d50_mm,Cushion,Float,mm,0.0,4.5,Mean grain size (d_50) of the cushion layer. 0 if no cushion,Input
+cushion_friction_deg,Cushion,Float,deg,0.0,56.0,Peak internal friction angle of granular cushion material,Input
+cushion_gamma_kn_m3,Cushion,Float,kN/m^3,0.0,18.2,Compacted dry unit weight of cushion layer,Input
+soil_d50_mm,Soil,Float,mm,0.17,0.30,Mean grain size of bed soil (Yamuna sand = 0.3mm),Input
+soil_friction_deg,Soil,Float,deg,38.0,42.0,Friction angle of foundation bed soil,Input
+soil_relative_density_pct,Soil,Float,%,70.0,86.0,Relative density (Dr) of sand bed,Input
+soil_gamma_kn_m3,Soil,Float,kN/m^3,14.5,16.5,Dry unit weight of soil bed,Input
+applied_load_kn,Loading,Float,kN,0.0,22.0,Total vertical load applied to raft (Q),Input
+settlement_mm,Loading,Float,mm,0.0,30.0,Measured vertical settlement at raft center (w),Input
+normalized_settlement_pct,Loading,Float,%,0.0,10.0,Settlement normalized by raft width (w/B * 100),Input
+applied_pressure_kpa,Loading,Float,kPa,0.0,244.4,Applied vertical stress on raft footprint (Q / B^2),Input
+pile_load_share_pct,Target,Float,%,0.0,85.0,Percentage of total load carried by piles (alpha_p * 100),Primary Target
+raft_load_share_pct,Target,Float,%,15.0,100.0,Percentage of total load carried by raft (alpha_r * 100),Secondary Target
+pile_group_load_kn,Decomposed,Float,kN,0.0,7.18,Total load carried by pile group (Q_p),Target Component
+raft_load_kn,Decomposed,Float,kN,0.0,15.20,Total load carried by raft (Q_r),Target Component
+settlement_efficiency_eta,Performance,Float,-,0.0,0.55,Dimensionless settlement reduction: (w_UR - w_DPRF) / w_UR,Performance Metric
